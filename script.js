@@ -24,7 +24,7 @@
   var questionCounter = 0;
   //Keeps track of the number of questions
   var selections = [];
-  //holds the user selections
+  //the user selection
   var quiz = $('#quiz');
 
   displayNext();
@@ -144,10 +144,11 @@
   }
   });
   }
-// function displayResult(){
-//    if(selection === answer);
-//    alert()
-//  }
+ function displayResult(){
+    if(selection === answer){
+alert ("You got it correct!");
+}  else{ alert("WROOOONNNGGGG!!!")
+ }
 
 
 //figures out the score
