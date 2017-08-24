@@ -144,11 +144,11 @@
   }
   });
   }
- function displayResult(){
-    if(selection === answer){
-alert ("You got it correct!");
-}  else{ alert("WROOOONNNGGGG!!!")
- }
+//  function displayResult(){
+//     if(selection === answer){
+// alert ("You got it correct!");
+// }  else{ alert("WROOOONNNGGGG!!!")
+//  }
 
 
 //figures out the score
