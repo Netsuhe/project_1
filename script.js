@@ -149,20 +149,3 @@
 // alert ("You got it correct!");
 // }  else{ alert("WROOOONNNGGGG!!!")
 //  }
-
-
-//figures out the score
-  // function displayScore() {
-  // var score = $('<p>',{id: 'questions'});
-  //
-  // var numCorrect = 0;
-  // for (var i = 0; i < selections.length; i++) {
-  // if (selections[i] === questions[i].answer) {
-  // numCorrect++;
-  // }
-  // }
-  //
-  // score.append('You got ' + numCorrect + ' questions right out of ' +
-  //        questions.length + '!');
-  // return score;
-  // }
